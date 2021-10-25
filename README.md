@@ -1,2 +1,2 @@
 # FuncNode
-Node function representation for equivalence checking
+Node representation of sequence functions for equivalence checking and pattern problem generation
